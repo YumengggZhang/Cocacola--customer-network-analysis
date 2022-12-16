@@ -1,4 +1,4 @@
-# Coke_Infusion_Study
+# Coca-cola Fans Network Infusion Study
 
 By investigating the social influence of people's beverage choice, we can then come back to focus on the Pepsi and Coca-Cola issues more accurately. So to break down our research, we are doing a digging process to tackle the following questions: 
 If drinking carbonated beverages or not will separate people into two groups, the relationship with each group will be closer. If so, what are the similarities and differences between the two groups?
